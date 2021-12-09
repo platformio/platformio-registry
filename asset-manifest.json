@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "https://cdn.registry.platformio.org/static/css/main.ba337585.chunk.css",
-    "main.js": "https://cdn.registry.platformio.org/static/js/main.62e46147.chunk.js",
-    "main.js.map": "https://cdn.registry.platformio.org/static/js/main.62e46147.chunk.js.map",
+    "main.css": "https://cdn.registry.platformio.org/static/css/main.abf5c7d0.chunk.css",
+    "main.js": "https://cdn.registry.platformio.org/static/js/main.1f704257.chunk.js",
+    "main.js.map": "https://cdn.registry.platformio.org/static/js/main.1f704257.chunk.js.map",
     "runtime-main.js": "https://cdn.registry.platformio.org/static/js/runtime-main.9c176f06.js",
     "runtime-main.js.map": "https://cdn.registry.platformio.org/static/js/runtime-main.9c176f06.js.map",
     "static/css/2.7fa7f378.chunk.css": "https://cdn.registry.platformio.org/static/css/2.7fa7f378.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.20f56eb7.chunk.js.map": "https://cdn.registry.platformio.org/static/js/2.20f56eb7.chunk.js.map",
     "index.html": "https://cdn.registry.platformio.org/index.html",
     "static/css/2.7fa7f378.chunk.css.map": "https://cdn.registry.platformio.org/static/css/2.7fa7f378.chunk.css.map",
-    "static/css/main.ba337585.chunk.css.map": "https://cdn.registry.platformio.org/static/css/main.ba337585.chunk.css.map",
+    "static/css/main.abf5c7d0.chunk.css.map": "https://cdn.registry.platformio.org/static/css/main.abf5c7d0.chunk.css.map",
     "static/js/2.20f56eb7.chunk.js.LICENSE.txt": "https://cdn.registry.platformio.org/static/js/2.20f56eb7.chunk.js.LICENSE.txt",
     "static/media/arrow-left.svg": "https://cdn.registry.platformio.org/static/media/arrow-left.83aa775a.svg",
     "static/media/book.svg": "https://cdn.registry.platformio.org/static/media/book.23a71387.svg",
@@ -54,7 +54,7 @@
     "static/js/runtime-main.9c176f06.js",
     "static/css/2.7fa7f378.chunk.css",
     "static/js/2.20f56eb7.chunk.js",
-    "static/css/main.ba337585.chunk.css",
-    "static/js/main.62e46147.chunk.js"
+    "static/css/main.abf5c7d0.chunk.css",
+    "static/js/main.1f704257.chunk.js"
   ]
 }
