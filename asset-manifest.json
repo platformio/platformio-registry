@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "https://cdn.registry.platformio.org/static/css/main.abf5c7d0.chunk.css",
-    "main.js": "https://cdn.registry.platformio.org/static/js/main.1f704257.chunk.js",
-    "main.js.map": "https://cdn.registry.platformio.org/static/js/main.1f704257.chunk.js.map",
+    "main.css": "https://cdn.registry.platformio.org/static/css/main.b506ecfd.chunk.css",
+    "main.js": "https://cdn.registry.platformio.org/static/js/main.20b03e6b.chunk.js",
+    "main.js.map": "https://cdn.registry.platformio.org/static/js/main.20b03e6b.chunk.js.map",
     "runtime-main.js": "https://cdn.registry.platformio.org/static/js/runtime-main.9c176f06.js",
     "runtime-main.js.map": "https://cdn.registry.platformio.org/static/js/runtime-main.9c176f06.js.map",
     "static/css/2.7fa7f378.chunk.css": "https://cdn.registry.platformio.org/static/css/2.7fa7f378.chunk.css",
-    "static/js/2.20f56eb7.chunk.js": "https://cdn.registry.platformio.org/static/js/2.20f56eb7.chunk.js",
-    "static/js/2.20f56eb7.chunk.js.map": "https://cdn.registry.platformio.org/static/js/2.20f56eb7.chunk.js.map",
+    "static/js/2.3238331a.chunk.js": "https://cdn.registry.platformio.org/static/js/2.3238331a.chunk.js",
+    "static/js/2.3238331a.chunk.js.map": "https://cdn.registry.platformio.org/static/js/2.3238331a.chunk.js.map",
     "index.html": "https://cdn.registry.platformio.org/index.html",
     "static/css/2.7fa7f378.chunk.css.map": "https://cdn.registry.platformio.org/static/css/2.7fa7f378.chunk.css.map",
-    "static/css/main.abf5c7d0.chunk.css.map": "https://cdn.registry.platformio.org/static/css/main.abf5c7d0.chunk.css.map",
-    "static/js/2.20f56eb7.chunk.js.LICENSE.txt": "https://cdn.registry.platformio.org/static/js/2.20f56eb7.chunk.js.LICENSE.txt",
+    "static/css/main.b506ecfd.chunk.css.map": "https://cdn.registry.platformio.org/static/css/main.b506ecfd.chunk.css.map",
+    "static/js/2.3238331a.chunk.js.LICENSE.txt": "https://cdn.registry.platformio.org/static/js/2.3238331a.chunk.js.LICENSE.txt",
     "static/media/arrow-left.svg": "https://cdn.registry.platformio.org/static/media/arrow-left.83aa775a.svg",
+    "static/media/award.svg": "https://cdn.registry.platformio.org/static/media/award.d41b6eb4.svg",
     "static/media/book.svg": "https://cdn.registry.platformio.org/static/media/book.23a71387.svg",
     "static/media/box-arrow-up-right.svg": "https://cdn.registry.platformio.org/static/media/box-arrow-up-right.1000047b.svg",
+    "static/media/braces.svg": "https://cdn.registry.platformio.org/static/media/braces.aa4c4138.svg",
     "static/media/caret-down-fill.svg": "https://cdn.registry.platformio.org/static/media/caret-down-fill.27c49128.svg",
     "static/media/caret-up-fill.svg": "https://cdn.registry.platformio.org/static/media/caret-up-fill.e9178cca.svg",
     "static/media/chat-dots.svg": "https://cdn.registry.platformio.org/static/media/chat-dots.618db13d.svg",
@@ -40,6 +42,7 @@
     "static/media/info-circle.svg": "https://cdn.registry.platformio.org/static/media/info-circle.b8b4fd48.svg",
     "static/media/link-45deg.svg": "https://cdn.registry.platformio.org/static/media/link-45deg.203d389f.svg",
     "static/media/linkedin.svg": "https://cdn.registry.platformio.org/static/media/linkedin.2eda7bdd.svg",
+    "static/media/pencil.svg": "https://cdn.registry.platformio.org/static/media/pencil.372bf1c0.svg",
     "static/media/search.svg": "https://cdn.registry.platformio.org/static/media/search.b1f781b9.svg",
     "static/media/app.scss": "https://cdn.registry.platformio.org/static/media/shape-1.1dd0a7d1.svg",
     "static/media/shape-2.d5a36091.svg": "https://cdn.registry.platformio.org/static/media/shape-2.d5a36091.svg",
@@ -48,13 +51,14 @@
     "static/media/tag.svg": "https://cdn.registry.platformio.org/static/media/tag.f3c76dbd.svg",
     "static/media/tags.svg": "https://cdn.registry.platformio.org/static/media/tags.47a9fffe.svg",
     "static/media/twitter.svg": "https://cdn.registry.platformio.org/static/media/twitter.db226d55.svg",
+    "static/media/upload.svg": "https://cdn.registry.platformio.org/static/media/upload.38ac33ea.svg",
     "static/media/x.svg": "https://cdn.registry.platformio.org/static/media/x.85f9f2a1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9c176f06.js",
     "static/css/2.7fa7f378.chunk.css",
-    "static/js/2.20f56eb7.chunk.js",
-    "static/css/main.abf5c7d0.chunk.css",
-    "static/js/main.1f704257.chunk.js"
+    "static/js/2.3238331a.chunk.js",
+    "static/css/main.b506ecfd.chunk.css",
+    "static/js/main.20b03e6b.chunk.js"
   ]
 }
