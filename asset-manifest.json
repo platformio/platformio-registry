@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://cdn.registry.platformio.org/static/css/main.b506ecfd.chunk.css",
+    "main.css": "https://cdn.registry.platformio.org/static/css/main.12dd33b3.chunk.css",
     "main.js": "https://cdn.registry.platformio.org/static/js/main.20b03e6b.chunk.js",
     "main.js.map": "https://cdn.registry.platformio.org/static/js/main.20b03e6b.chunk.js.map",
     "runtime-main.js": "https://cdn.registry.platformio.org/static/js/runtime-main.9c176f06.js",
@@ -10,7 +10,7 @@
     "static/js/2.3238331a.chunk.js.map": "https://cdn.registry.platformio.org/static/js/2.3238331a.chunk.js.map",
     "index.html": "https://cdn.registry.platformio.org/index.html",
     "static/css/2.7fa7f378.chunk.css.map": "https://cdn.registry.platformio.org/static/css/2.7fa7f378.chunk.css.map",
-    "static/css/main.b506ecfd.chunk.css.map": "https://cdn.registry.platformio.org/static/css/main.b506ecfd.chunk.css.map",
+    "static/css/main.12dd33b3.chunk.css.map": "https://cdn.registry.platformio.org/static/css/main.12dd33b3.chunk.css.map",
     "static/js/2.3238331a.chunk.js.LICENSE.txt": "https://cdn.registry.platformio.org/static/js/2.3238331a.chunk.js.LICENSE.txt",
     "static/media/arrow-left.svg": "https://cdn.registry.platformio.org/static/media/arrow-left.83aa775a.svg",
     "static/media/award.svg": "https://cdn.registry.platformio.org/static/media/award.d41b6eb4.svg",
@@ -58,7 +58,7 @@
     "static/js/runtime-main.9c176f06.js",
     "static/css/2.7fa7f378.chunk.css",
     "static/js/2.3238331a.chunk.js",
-    "static/css/main.b506ecfd.chunk.css",
+    "static/css/main.12dd33b3.chunk.css",
     "static/js/main.20b03e6b.chunk.js"
   ]
 }
