@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://cdn.registry.platformio.org/static/css/main.48ed9b08.chunk.css",
-    "main.js": "https://cdn.registry.platformio.org/static/js/main.df7a2cc9.chunk.js",
-    "main.js.map": "https://cdn.registry.platformio.org/static/js/main.df7a2cc9.chunk.js.map",
+    "main.js": "https://cdn.registry.platformio.org/static/js/main.cd756a8e.chunk.js",
+    "main.js.map": "https://cdn.registry.platformio.org/static/js/main.cd756a8e.chunk.js.map",
     "runtime-main.js": "https://cdn.registry.platformio.org/static/js/runtime-main.9c176f06.js",
     "runtime-main.js.map": "https://cdn.registry.platformio.org/static/js/runtime-main.9c176f06.js.map",
     "static/css/2.7fa7f378.chunk.css": "https://cdn.registry.platformio.org/static/css/2.7fa7f378.chunk.css",
@@ -60,6 +60,6 @@
     "static/css/2.7fa7f378.chunk.css",
     "static/js/2.b2452470.chunk.js",
     "static/css/main.48ed9b08.chunk.css",
-    "static/js/main.df7a2cc9.chunk.js"
+    "static/js/main.cd756a8e.chunk.js"
   ]
 }
