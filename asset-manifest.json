@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://cdn.registry.platformio.org/static/css/main.946f80b0.css",
-    "main.js": "https://cdn.registry.platformio.org/static/js/main.ec563f21.js",
+    "main.css": "https://cdn.registry.platformio.org/static/css/main.bd89559e.css",
+    "main.js": "https://cdn.registry.platformio.org/static/js/main.b600a8ac.js",
     "index.html": "https://cdn.registry.platformio.org/index.html",
     "static/media/patch-check.svg": "https://cdn.registry.platformio.org/static/media/patch-check.ae3b2cdaaab200ed41d30ef7fd94a096.svg",
     "static/media/shape-1.svg": "https://cdn.registry.platformio.org/static/media/shape-1.1dd0a7d16485e07554ec.svg",
@@ -45,11 +45,11 @@
     "static/media/caret-down-fill.svg": "https://cdn.registry.platformio.org/static/media/caret-down-fill.27c49128156891d28b6305f401c30063.svg",
     "static/media/caret-up-fill.svg": "https://cdn.registry.platformio.org/static/media/caret-up-fill.e9178ccac2bc66d46bc910d21d70113f.svg",
     "static/media/shape-2.svg": "https://cdn.registry.platformio.org/static/media/shape-2.d5a360917413adedebdd04f988f09d3c.svg",
-    "main.946f80b0.css.map": "https://cdn.registry.platformio.org/static/css/main.946f80b0.css.map",
-    "main.ec563f21.js.map": "https://cdn.registry.platformio.org/static/js/main.ec563f21.js.map"
+    "main.bd89559e.css.map": "https://cdn.registry.platformio.org/static/css/main.bd89559e.css.map",
+    "main.b600a8ac.js.map": "https://cdn.registry.platformio.org/static/js/main.b600a8ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.946f80b0.css",
-    "static/js/main.ec563f21.js"
+    "static/css/main.bd89559e.css",
+    "static/js/main.b600a8ac.js"
   ]
 }
