@@ -1,0 +1,8 @@
+Sitemap: https://registry.platformio.org/sitemap.xml
+
+User-agent: *
+Allow: /
+Disallow: /*compatibility$
+Disallow: /*versions$
+Disallow: /*examples$
+
