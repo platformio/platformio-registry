@@ -2,6 +2,7 @@ Sitemap: https://registry.platformio.org/sitemap.xml
 
 User-agent: *
 Allow: /
+Disallow: /search
 Disallow: /*compatibility$
-Disallow: /*versions$
 Disallow: /*examples$
+Disallow: /*versions$
