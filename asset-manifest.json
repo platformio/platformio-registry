@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://cdn.registry.platformio.org/static/css/main.bc67d5f9.css",
-    "main.js": "https://cdn.registry.platformio.org/static/js/main.2168362a.js",
+    "main.js": "https://cdn.registry.platformio.org/static/js/main.ebfcbaaf.js",
     "index.html": "https://cdn.registry.platformio.org/index.html",
     "static/media/patch-check.svg": "https://cdn.registry.platformio.org/static/media/patch-check.ae3b2cdaaab200ed41d30ef7fd94a096.svg",
     "static/media/shape-1.svg": "https://cdn.registry.platformio.org/static/media/shape-1.1dd0a7d16485e07554ec.svg",
@@ -49,6 +49,6 @@
   },
   "entrypoints": [
     "static/css/main.bc67d5f9.css",
-    "static/js/main.2168362a.js"
+    "static/js/main.ebfcbaaf.js"
   ]
 }
