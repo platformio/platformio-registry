@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://cdn.registry.platformio.org/static/css/main.ae5587be.css",
-    "main.js": "https://cdn.registry.platformio.org/static/js/main.7d69589b.js",
+    "main.css": "https://cdn.registry.platformio.org/static/css/main.bc67d5f9.css",
+    "main.js": "https://cdn.registry.platformio.org/static/js/main.2168362a.js",
     "index.html": "https://cdn.registry.platformio.org/index.html",
     "static/media/patch-check.svg": "https://cdn.registry.platformio.org/static/media/patch-check.ae3b2cdaaab200ed41d30ef7fd94a096.svg",
     "static/media/shape-1.svg": "https://cdn.registry.platformio.org/static/media/shape-1.1dd0a7d16485e07554ec.svg",
@@ -45,12 +45,10 @@
     "static/media/chevron-left.svg": "https://cdn.registry.platformio.org/static/media/chevron-left.c80cdd8edb8ab6c8a1634e6d14e15383.svg",
     "static/media/caret-down-fill.svg": "https://cdn.registry.platformio.org/static/media/caret-down-fill.27c49128156891d28b6305f401c30063.svg",
     "static/media/caret-up-fill.svg": "https://cdn.registry.platformio.org/static/media/caret-up-fill.e9178ccac2bc66d46bc910d21d70113f.svg",
-    "static/media/shape-2.svg": "https://cdn.registry.platformio.org/static/media/shape-2.d5a360917413adedebdd04f988f09d3c.svg",
-    "main.ae5587be.css.map": "https://cdn.registry.platformio.org/static/css/main.ae5587be.css.map",
-    "main.7d69589b.js.map": "https://cdn.registry.platformio.org/static/js/main.7d69589b.js.map"
+    "static/media/shape-2.svg": "https://cdn.registry.platformio.org/static/media/shape-2.d5a360917413adedebdd04f988f09d3c.svg"
   },
   "entrypoints": [
-    "static/css/main.ae5587be.css",
-    "static/js/main.7d69589b.js"
+    "static/css/main.bc67d5f9.css",
+    "static/js/main.2168362a.js"
   ]
 }
