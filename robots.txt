@@ -9,3 +9,4 @@ Disallow: /*versions$
 Disallow: /*authors$
 Disallow: /*dependencies$
 Disallow: /*dependents$
+Disallow: /*?*
