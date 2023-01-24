@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "https://cdn.registry.platformio.org/static/css/main.a31edb25.css",
-    "main.js": "https://cdn.registry.platformio.org/static/js/main.6e89eaf9.js",
-    "static/js/410.bb010298.chunk.js": "https://cdn.registry.platformio.org/static/js/410.bb010298.chunk.js",
-    "static/js/214.89ba6477.chunk.js": "https://cdn.registry.platformio.org/static/js/214.89ba6477.chunk.js",
-    "static/js/430.233829c6.chunk.js": "https://cdn.registry.platformio.org/static/js/430.233829c6.chunk.js",
-    "static/js/110.c6b4729c.chunk.js": "https://cdn.registry.platformio.org/static/js/110.c6b4729c.chunk.js",
+    "main.css": "https://cdn.registry.platformio.org/static/css/main.3d81de32.css",
+    "main.js": "https://cdn.registry.platformio.org/static/js/main.f8ffe016.js",
+    "static/js/410.565d68eb.chunk.js": "https://cdn.registry.platformio.org/static/js/410.565d68eb.chunk.js",
+    "static/js/214.5a34bfc4.chunk.js": "https://cdn.registry.platformio.org/static/js/214.5a34bfc4.chunk.js",
+    "static/js/514.07538804.chunk.js": "https://cdn.registry.platformio.org/static/js/514.07538804.chunk.js",
+    "static/js/110.827e5a1f.chunk.js": "https://cdn.registry.platformio.org/static/js/110.827e5a1f.chunk.js",
     "index.html": "https://cdn.registry.platformio.org/index.html",
     "static/media/patch-check.svg": "https://cdn.registry.platformio.org/static/media/patch-check.ae3b2cdaaab200ed41d30ef7fd94a096.svg",
     "static/media/shape-1.svg": "https://cdn.registry.platformio.org/static/media/shape-1.1dd0a7d16485e07554ec.svg",
@@ -52,7 +52,7 @@
     "static/media/shape-2.svg": "https://cdn.registry.platformio.org/static/media/shape-2.d5a360917413adedebdd04f988f09d3c.svg"
   },
   "entrypoints": [
-    "static/css/main.a31edb25.css",
-    "static/js/main.6e89eaf9.js"
+    "static/css/main.3d81de32.css",
+    "static/js/main.f8ffe016.js"
   ]
 }
