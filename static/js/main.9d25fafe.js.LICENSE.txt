@@ -10,7 +10,7 @@ object-assign
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
   */
 
-/*! @license DOMPurify 2.4.3 | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/2.4.3/LICENSE */
+/*! @license DOMPurify 3.0.2 | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/3.0.2/LICENSE */
 
 /**
  * @license React
@@ -63,7 +63,7 @@ object-assign
  */
 
 /**
- * @remix-run/router v1.3.0
+ * @remix-run/router v1.5.0
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -74,7 +74,7 @@ object-assign
  */
 
 /**
- * React Router DOM v6.7.0
+ * React Router DOM v6.10.0
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -85,7 +85,7 @@ object-assign
  */
 
 /**
- * React Router v6.7.0
+ * React Router v6.10.0
  *
  * Copyright (c) Remix Software Inc.
  *
