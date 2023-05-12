@@ -1,11 +1,15 @@
 {
   "files": {
-    "main.css": "https://cdn.registry.platformio.org/static/css/main.3d81de32.css",
-    "main.js": "https://cdn.registry.platformio.org/static/js/main.c2f4f14c.js",
+    "main.css": "https://cdn.registry.platformio.org/static/css/main.61e3a339.css",
+    "main.js": "https://cdn.registry.platformio.org/static/js/main.88ce3609.js",
     "static/js/410.c2fa3c8b.chunk.js": "https://cdn.registry.platformio.org/static/js/410.c2fa3c8b.chunk.js",
     "static/js/214.99de4dfc.chunk.js": "https://cdn.registry.platformio.org/static/js/214.99de4dfc.chunk.js",
     "static/js/110.827e5a1f.chunk.js": "https://cdn.registry.platformio.org/static/js/110.827e5a1f.chunk.js",
     "static/js/41.55546d2c.chunk.js": "https://cdn.registry.platformio.org/static/js/41.55546d2c.chunk.js",
+    "static/media/open-sans-v35-latin_latin-ext-regular.woff": "https://cdn.registry.platformio.org/static/media/open-sans-v35-latin_latin-ext-regular.c2b38cc4eee79de3acfb.woff",
+    "static/media/open-sans-v35-latin_latin-ext-600.woff": "https://cdn.registry.platformio.org/static/media/open-sans-v35-latin_latin-ext-600.a71c84ca87137622ac78.woff",
+    "static/media/open-sans-v35-latin_latin-ext-regular.woff2": "https://cdn.registry.platformio.org/static/media/open-sans-v35-latin_latin-ext-regular.bf91a27383a399651eea.woff2",
+    "static/media/open-sans-v35-latin_latin-ext-600.woff2": "https://cdn.registry.platformio.org/static/media/open-sans-v35-latin_latin-ext-600.c63bd528c0e8b1535c25.woff2",
     "index.html": "https://cdn.registry.platformio.org/index.html",
     "static/media/patch-check.svg": "https://cdn.registry.platformio.org/static/media/patch-check.ae3b2cdaaab200ed41d30ef7fd94a096.svg",
     "static/media/shape-1.svg": "https://cdn.registry.platformio.org/static/media/shape-1.1dd0a7d16485e07554ec.svg",
@@ -52,7 +56,7 @@
     "static/media/shape-2.svg": "https://cdn.registry.platformio.org/static/media/shape-2.d5a360917413adedebdd04f988f09d3c.svg"
   },
   "entrypoints": [
-    "static/css/main.3d81de32.css",
-    "static/js/main.c2f4f14c.js"
+    "static/css/main.61e3a339.css",
+    "static/js/main.88ce3609.js"
   ]
 }
