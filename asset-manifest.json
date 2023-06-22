@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "https://cdn.registry.platformio.org/static/css/main.61e3a339.css",
-    "main.js": "https://cdn.registry.platformio.org/static/js/main.88ce3609.js",
-    "static/js/410.c2fa3c8b.chunk.js": "https://cdn.registry.platformio.org/static/js/410.c2fa3c8b.chunk.js",
-    "static/js/214.99de4dfc.chunk.js": "https://cdn.registry.platformio.org/static/js/214.99de4dfc.chunk.js",
+    "main.css": "https://cdn.registry.platformio.org/static/css/main.f735f4bc.css",
+    "main.js": "https://cdn.registry.platformio.org/static/js/main.45f52de8.js",
+    "static/js/410.56e63b49.chunk.js": "https://cdn.registry.platformio.org/static/js/410.56e63b49.chunk.js",
+    "static/js/214.6fcd3ec9.chunk.js": "https://cdn.registry.platformio.org/static/js/214.6fcd3ec9.chunk.js",
     "static/js/110.827e5a1f.chunk.js": "https://cdn.registry.platformio.org/static/js/110.827e5a1f.chunk.js",
     "static/js/41.55546d2c.chunk.js": "https://cdn.registry.platformio.org/static/js/41.55546d2c.chunk.js",
     "static/media/open-sans-v35-latin_latin-ext-regular.woff": "https://cdn.registry.platformio.org/static/media/open-sans-v35-latin_latin-ext-regular.c2b38cc4eee79de3acfb.woff",
@@ -56,7 +56,7 @@
     "static/media/shape-2.svg": "https://cdn.registry.platformio.org/static/media/shape-2.d5a360917413adedebdd04f988f09d3c.svg"
   },
   "entrypoints": [
-    "static/css/main.61e3a339.css",
-    "static/js/main.88ce3609.js"
+    "static/css/main.f735f4bc.css",
+    "static/js/main.45f52de8.js"
   ]
 }
