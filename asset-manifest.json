@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://cdn.registry.platformio.org/static/css/main.f735f4bc.css",
-    "main.js": "https://cdn.registry.platformio.org/static/js/main.6021c65f.js",
+    "main.js": "https://cdn.registry.platformio.org/static/js/main.acd3e4d0.js",
     "static/js/410.4dcc13c6.chunk.js": "https://cdn.registry.platformio.org/static/js/410.4dcc13c6.chunk.js",
     "static/js/214.e6304946.chunk.js": "https://cdn.registry.platformio.org/static/js/214.e6304946.chunk.js",
     "static/js/110.827e5a1f.chunk.js": "https://cdn.registry.platformio.org/static/js/110.827e5a1f.chunk.js",
@@ -57,6 +57,6 @@
   },
   "entrypoints": [
     "static/css/main.f735f4bc.css",
-    "static/js/main.6021c65f.js"
+    "static/js/main.acd3e4d0.js"
   ]
 }
