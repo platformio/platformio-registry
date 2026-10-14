@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "https://cdn.registry.platformio.org/static/css/main.bf7fe178.css",
-    "main.js": "https://cdn.registry.platformio.org/static/js/main.625578fb.js",
-    "static/js/840.7d346226.chunk.js": "https://cdn.registry.platformio.org/static/js/840.7d346226.chunk.js",
-    "static/js/484.fb3afd7c.chunk.js": "https://cdn.registry.platformio.org/static/js/484.fb3afd7c.chunk.js",
-    "static/js/43.fcfa42b7.chunk.js": "https://cdn.registry.platformio.org/static/js/43.fcfa42b7.chunk.js",
-    "static/js/538.e1700d97.chunk.js": "https://cdn.registry.platformio.org/static/js/538.e1700d97.chunk.js",
+    "main.css": "https://cdn.registry.platformio.org/static/css/main.e3ccca49.css",
+    "main.js": "https://cdn.registry.platformio.org/static/js/main.57fea4ea.js",
+    "static/js/840.26f56bca.chunk.js": "https://cdn.registry.platformio.org/static/js/840.26f56bca.chunk.js",
+    "static/js/484.ca274693.chunk.js": "https://cdn.registry.platformio.org/static/js/484.ca274693.chunk.js",
+    "static/js/43.ee364444.chunk.js": "https://cdn.registry.platformio.org/static/js/43.ee364444.chunk.js",
+    "static/js/250.211cb6c9.chunk.js": "https://cdn.registry.platformio.org/static/js/250.211cb6c9.chunk.js",
     "static/media/open-sans-v35-latin_latin-ext-regular.woff": "https://cdn.registry.platformio.org/static/media/open-sans-v35-latin_latin-ext-regular.c2b38cc4eee79de3acfb.woff",
     "static/media/open-sans-v35-latin_latin-ext-600.woff": "https://cdn.registry.platformio.org/static/media/open-sans-v35-latin_latin-ext-600.a71c84ca87137622ac78.woff",
     "static/media/open-sans-v35-latin_latin-ext-regular.woff2": "https://cdn.registry.platformio.org/static/media/open-sans-v35-latin_latin-ext-regular.bf91a27383a399651eea.woff2",
@@ -56,7 +56,7 @@
     "static/media/shape-2.svg": "https://cdn.registry.platformio.org/static/media/shape-2.d5a360917413adedebdd04f988f09d3c.svg"
   },
   "entrypoints": [
-    "static/css/main.bf7fe178.css",
-    "static/js/main.625578fb.js"
+    "static/css/main.e3ccca49.css",
+    "static/js/main.57fea4ea.js"
   ]
 }
